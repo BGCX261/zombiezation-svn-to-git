@@ -1,0 +1,13 @@
+body {
+	background: #303030;
+}
+
+#container {
+	padding-top: 50px;
+	margin: 0 auto;
+	width: 1280px;
+}
+
+#gameCanvas {
+	background: #FFFFFF;
+}
